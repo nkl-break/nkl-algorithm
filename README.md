@@ -7,7 +7,8 @@
 |:---:|:---:|
 |[이소은](https://github.com/ddonydev) |[권낙현](https://github.com/knh6269)|
 |[백종인](https://github.com/rookedsysc)      |[한강희](https://github.com/hanabcde2) |
-|[김재호](https://github.com/chamominedev)      |[김은지](https://github.com/EunJeeKim0402) |
+|[김재호](https://github.com/chamominedev)      |  |
+|[김은지](https://github.com/EunJeeKim0402)      | |
 ## :rainbow: 알고리즘스터디 기간
 
 - 2024.01.16 ~
