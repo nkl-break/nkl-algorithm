@@ -4,12 +4,13 @@
 
 ## :rainbow:스터디 인원
  
-| **Java** | **JavaScript** |
-|:---:|:---:|
-|[이소은](https://github.com/ddonydev) |[권낙현](https://github.com/knh6269)|
-|[백종인](https://github.com/rookedsysc)      |[한강희](https://github.com/hanabcde2) |
-|[김재호](https://github.com/chamominedev)      |  |
-|[김은지](https://github.com/EunJeeKim0402)      | |
+| **Java** | **JavaScript** |  **python** |
+|:---:|:---:| :---:| 
+|[이소은](https://github.com/ddonydev) |[권낙현](https://github.com/knh6269)| [백종인](https://github.com/rookedsysc)  |
+|[김재호](https://github.com/chamominedev) |[한강희](https://github.com/hanabcde2) |  | 
+|[김은지](https://github.com/EunJeeKim0402) |[정선교](https://github.com/tjsry0466) |  |
+| |[김종찬](https://github.com/kickbelldev)| |
+
 ## :rainbow: 알고리즘스터디 기간
 
 - 2024.01.16 ~
