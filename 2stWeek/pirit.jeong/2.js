@@ -31,8 +31,6 @@ const solution = (n, m, board) => {
   for (let i = 0; i < n; i++) {
     for (let j = 0; j < m; j++) {
       if (!visited[i][j]) {
-        if (i === 1 && j === 0) {
-        }
         visited[i][j] = true;
         answer += 1;
       }
