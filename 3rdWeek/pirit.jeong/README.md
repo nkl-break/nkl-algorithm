@@ -7,3 +7,25 @@
 변수 3개(start, end, mid)를 사용하여 탐색한다. 찾으려는 데이터와 중간점 위치에 있는 데이터를 반복적으로 비교해서 원하는 데이터를 찾는 것이 이진 탐색의 과정이다.
 
 ![Binary Search Visualization](binary-and-linear-search-animations.gif)
+
+```javascript
+function binarySearch(arr, target) {
+  let low = 0;
+  let high = arr.length - 1;
+  let mid;
+
+  while (low <= high) {
+    mid = Math.round((low + high) / 2);
+
+    if (arr[mid] === target) {
+      return mid;
+    } else if (arr[mid] > target) {
+      high = mid - 1;
+    } else {
+      low = mid + 1;
+    }
+  }
+
+  return -1;
+}
+```
