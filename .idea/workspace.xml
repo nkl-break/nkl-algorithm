@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c33f31db-8863-49d0-8419-1123733cbb7f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3rdWeek/rookedsysc/merge-intervals.py" beforeDir="false" afterPath="$PROJECT_DIR$/3rdWeek/rookedsysc/merge-intervals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3rdWeek/rookedsysc/회의실배정.py" beforeDir="false" afterPath="$PROJECT_DIR$/3rdWeek/rookedsysc/회의실배정.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +19,10 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
